@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Perusvärit -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Teema -->
+    <color name="green">#7E9F8B</color>
+    <color name="darkgreen">#4D6653</color>
+    <color name="lightgreen">#DDE8DE</color>
+    <color name="cards">#E8F0E8</color>
+
+    <!-- Neutraalit -->
+    <color name="light">#F5F5F2</color>
+    <color name="text">#2F3A32</color>
+
+    <!-- Korostus -->
+    <color name="beige">#D9CDB8</color>
+    <color name="terracotta">#C9826B</color>
+
+    <!-- Bottom Navigation -->
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_active">#4D6653</color>
+    <color name="bottom_nav_inactive">#9AA09B</color>
+
+</resources>
